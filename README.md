@@ -2,8 +2,6 @@
 
 *Because messy data deserves some TLC!*
 
-![Banner](https://media.giphy.com/media/3o6ZsYi2HX9vPIMOsE/giphy.gif)
-
 ---
 
 ## 🚀 What’s this?
