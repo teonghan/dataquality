@@ -43,5 +43,5 @@ No PhD in Pandas required.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/data-cleaning-assistant.git
-cd data-cleaning-assistant
+git clone https://github.com/teonghan/dataquality.git
+cd dataquality
