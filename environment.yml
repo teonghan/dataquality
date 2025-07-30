@@ -1,4 +1,4 @@
-name: data-quality-cleaning
+name: dataquality
 channels:
   - defaults
   - conda-forge
