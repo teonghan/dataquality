@@ -1,0 +1,12 @@
+name: data-quality-cleaning
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - streamlit
+  - pandas
+  - openpyxl
+  - xlrd
+  - PyPDF2
+  - camelot-py[cv]
