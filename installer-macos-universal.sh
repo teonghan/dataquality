@@ -8,7 +8,7 @@
 ENV_NAME="dataquality"
 APP_DIR="$(pwd)"
 SHORTCUT_NAME="Run Data Quality"
-YAML_FILE="$APP_DIR/environment.yml"
+YAML_FILE="$APP_DIR/__environment__.yml"
 
 echo "---------------------------------------------"
 echo "🧠 Detecting architecture..."
